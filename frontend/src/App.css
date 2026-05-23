@@ -5,7 +5,7 @@
 }
 
 h1 {
-  color: #1f4e79;
+  color: #1f7979;
 }
 
 input {
@@ -17,7 +17,7 @@ input {
 
 button {
   padding: 10px 15px;
-  background-color: #1f4e79;
+  background-color: #d4ace4;
   color: white;
   border: none;
   cursor: pointer;
