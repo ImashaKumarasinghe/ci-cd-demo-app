@@ -32,8 +32,8 @@ Code push → GitHub Actions checks → Render/Vercel auto deploy
 - Frontend security audit
 
 ## Deployment Links
-Frontend Live URL: paste your frontend link here  
-Backend Live URL: paste your backend link here  
+Frontend Live URL:(https://ci-cd-demo-app-gamma.vercel.app)
+Backend Live URL: (https://ci-cd-demo-app-7kbg.onrender.com)  
 
 ## Author
 Imasha Kumarasinghe
