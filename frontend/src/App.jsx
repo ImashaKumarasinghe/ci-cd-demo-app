@@ -57,7 +57,7 @@ function App() {
 
       <button onClick={addItem}>Add Item</button>
 
-      <h1>Items</h1>
+      <h1>ITEM LIST</h1>
      
 
       {items.map((item) => (
