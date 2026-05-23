@@ -58,6 +58,7 @@ function App() {
       <button onClick={addItem}>Add Item</button>
 
       <h2>Items</h2>
+      <h1>CI/CD Demo App - Updated</h1>
 
       {items.map((item) => (
         <div className="card" key={item._id}>
