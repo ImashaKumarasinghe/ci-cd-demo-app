@@ -38,7 +38,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1>CI/CD Demo App</h1>
+      <h1>Demo App</h1>
       <p>Full-stack app with automated CI/CD pipeline</p>
 
       <input
